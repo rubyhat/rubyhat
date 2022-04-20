@@ -43,6 +43,12 @@
 
 Non-commercial projects you can find here - [CV](https://rubyhat.github.io/)
 
+### I'm currently studying
+
+- Frontend - [Hexlet](https://ru.hexlet.io/programs/frontend)
+- Exercises - [Codewars](https://www.codewars.com/users/rwbykz)
+- Math - [Yandex](https://practicum.yandex.ru/profile/math-foundations/)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubyhat&count_private=true&show_icons=true&theme=nord)](https://github.com/rubyhat/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyhat&layout=compact&theme=nord)](https://github.com/rubyhat/github-readme-stats)
