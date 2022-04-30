@@ -2,9 +2,10 @@
 
 ## Hello everyone! I'm a Frontend Developer 👨‍💻
 
-- CV - [check](https://rubyhat.github.io/)
+- <strong style="color: LightCoral">[For HR]</strong> CV - [check](https://rubyhat.github.io/)
+- <strong style="color: gold">[For Tech Lead]</strong> Here I collect little React/Js apps and lessons summary for learning and testing. - [link](https://github.com/rubyhat/frontend-pets)
 - My name is Vladislav Tsay
-- I'm 24 y.o
+- I'm 24 y.o.
 - I'm from Kazakhstan
 - I graduated from [KSTU](https://www.kstu.kz/)
 
@@ -26,20 +27,20 @@
 
 ### React Commercial Projects
 
-- Project #1 - [sz.kz](https://sz.kz)
-- Project #2 - [Avtoloto.kz](https://avtoloto.kz)
-- Project #3 - Admin Panel for Avtoloto.kz in private repo :)
+- Project #1 <strong style="color: mediumseagreen">(2021 - 2022)</strong> - [sz.kz](https://sz.kz)
+- Project #2 <strong style="color: mediumseagreen">(2021 - 2022)</strong> - [Avtoloto.kz](https://avtoloto.kz)
+- Project #3 <strong style="color: mediumseagreen">(2021 - 2022)</strong> - Admin Panel for Avtoloto.kz in private repo :)
 
 <!-- What I used in these projects: React Hooks, React Router, React Virtual DOM, axios, -->
 
 ### Other
 
-- Landing Page, code & design in figma - [Roze.kz](https://roze.kz)
-- Landing Page, code & design in figma - [it09.kz](https://it09.kz)
-- Landing Page, code & design in figma - [k-house.kz](https://k-house.kz)
-- Landing Page, code & design in figma - [skillstorm.kz](https://skillstorm.kz)
-- Landing Page, code & design in figma - [daesuhaggyo.ru](https://github.com/rubyhat/daesuhaggyo)
-- Wordpress Shop - [kip-electro.kz](https://kip-electro.kz)
+- Landing Page, code & design in figma <strong style="color: mediumseagreen">(2022)</strong> - [Roze.kz](https://roze.kz) | [Code](https://github.com/rubyhat/roze-landing.git) | [Design](https://www.figma.com/file/IT94zAexg1CcUlpoS0yTWq/Roze?node-id=226%3A2)
+- Landing Page, code & design in figma <strong style="color: crimson">(2020)</strong> - [it09.kz](https://it09.kz) | [Code](https://github.com/rubyhat/itsg/tree/master/src) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A2)
+- Landing Page, code & design in figma <strong style="color: crimson">(2020)</strong> - [k-house.kz](https://k-house.kz) | [Code](https://github.com/rubyhat/kokshetau) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A778)
+- Landing Page, code & design in figma <strong style="color: crimson">(2020)</strong> - [skillstorm.kz](https://skillstorm.kz) | [Code](https://github.com/rubyhat/skillstorm) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=0%3A1)
+- Landing Page, code & design in figma <strong style="color: crimson">(2020)</strong> - [daesuhaggyo.ru](https://rubyhat.github.io/projects/korean-school/) | [Code](https://github.com/rubyhat/daesuhaggyo) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=5%3A2)
+- Wordpress Shop <strong style="color: crimson">(2020)</strong> - [kip-electro.kz](https://kip-electro.kz) | [Code](https://github.com/rubyhat/kip-electro) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A1032)
 
 Non-commercial projects you can find here - [CV](https://rubyhat.github.io/)
 
