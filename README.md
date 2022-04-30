@@ -2,8 +2,8 @@
 
 ## Hello everyone! I'm a Frontend Developer 👨‍💻
 
-- ![For HR](https://img.shields.io/badge/-For_HR-F08080?style=flat&logo) CV - [check](https://rubyhat.github.io/)
-- ![For HR](https://img.shields.io/badge/-For_Teach_Lead-FFD700?style=flat&logo) CV - [check](https://rubyhat.github.io/) Here I collect little React/Js apps and lessons summary for learning and testing. - [link](https://github.com/rubyhat/frontend-pets)
+- ![For HR](https://img.shields.io/badge/-For_HR-F08080?style=flat&logo) My CV - [check](https://rubyhat.github.io/)
+- ![For HR](https://img.shields.io/badge/-For_Teach_Lead-FFD700?style=flat&logo) Here I collect little React/Js apps and lessons summary for learning and testing. - [link](https://github.com/rubyhat/frontend-pets) | [demo](https://rubyhat.github.io/projects/Frontend/Pets/)
 - My name is Vladislav Tsay
 - I'm 24 y.o.
 - I'm from Kazakhstan
@@ -27,13 +27,13 @@
 
 ### React Commercial Projects
 
-- Project #1 ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) - [sz.kz](https://sz.kz)
-- Project #2 ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) - [Avtoloto.kz](https://avtoloto.kz)
-- Project #3 ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) - Admin Panel for Avtoloto.kz in private repo :)
+- ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) Project #1 - [sz.kz](https://sz.kz)
+- ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) Project #2 - [Avtoloto.kz](https://avtoloto.kz)
+- ![For HR](<https://img.shields.io/badge/-(2021_2022)-3CB371?style=flat&logo>) Project #3 - Admin Panel for Avtoloto.kz in private repo :)
 
 <!-- What I used in these projects: React Hooks, React Router, React Virtual DOM, axios, -->
 
-### Other
+### Projects
 
 - ![For HR](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) Landing Page, code & design in figma - [Roze.kz](https://roze.kz) | [Code](https://github.com/rubyhat/roze-landing.git) | [Design](https://www.figma.com/file/IT94zAexg1CcUlpoS0yTWq/Roze?node-id=226%3A2)
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Landing Page, code & design in figma - [it09.kz](https://it09.kz) | [Code](https://github.com/rubyhat/itsg/tree/master/src) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A2)
@@ -41,6 +41,7 @@
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Landing Page, code & design in figma - [skillstorm.kz](https://skillstorm.kz) | [Code](https://github.com/rubyhat/skillstorm) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=0%3A1)
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Landing Page, code & design in figma - [daesuhaggyo.ru](https://rubyhat.github.io/projects/korean-school/) | [Code](https://github.com/rubyhat/daesuhaggyo) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=5%3A2)
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Wordpress Shop - [kip-electro.kz](https://kip-electro.kz) | [Code](https://github.com/rubyhat/kip-electro) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A1032)
+- ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Evento - [https://mafia-krg.herokuapp.com/](https://mafia-krg.herokuapp.com/) | [Code](https://github.com/rubyhat/mafia) | Ruby on Rails app for local Mafia(Werewolf, social deduction game) club. Here you can sign up and create event, other gamers can accept your event. Also you can check user profile and find some stats.
 
 Non-commercial projects you can find here - [CV](https://rubyhat.github.io/)
 
