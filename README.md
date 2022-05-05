@@ -33,10 +33,14 @@
 
 <!-- What I used in these projects: React Hooks, React Router, React Virtual DOM, axios, -->
 
-### Projects
+### Pet Projects
 
+- ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) React + TS + StoryBook app - [Code](https://github.com/rubyhat/rubyhat-ui-kit)
 - ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) Webpack template for static site - [Code](https://github.com/rubyhat/webpack-template)
 - ![Badge](https://img.shields.io/badge/-2022-FFD700?style=flat&logo) React + Next: JWT auth (in progress) - [Code](https://github.com/rubyhat/jwt-react)
+
+### Projects
+
 - ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) Landing Page, code & design in figma - [Roze.kz](https://roze.kz) | [Code](https://github.com/rubyhat/roze-landing.git) | [Design](https://www.figma.com/file/IT94zAexg1CcUlpoS0yTWq/Roze?node-id=226%3A2)
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Landing Page, code & design in figma - [it09.kz](https://it09.kz) | [Code](https://github.com/rubyhat/itsg/tree/master/src) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A2)
 - ![Badge](https://img.shields.io/badge/-2020-DC143C?style=flat&logo) Landing Page, code & design in figma - [k-house.kz](https://k-house.kz) | [Code](https://github.com/rubyhat/kokshetau) | [Design](https://www.figma.com/file/ug6IIBOPwIJR4lHLo85xXG/Portfolio?node-id=3%3A778)
