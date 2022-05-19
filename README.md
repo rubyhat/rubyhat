@@ -3,7 +3,7 @@
 ## Hello everyone! I'm a Frontend Developer 👨‍💻
 
 - ![For HR](https://img.shields.io/badge/-For_HR-F08080?style=flat&logo) My CV - [check](https://rubyhat.github.io/)
-- ![For HR](https://img.shields.io/badge/-For_Teach_Lead-FFD700?style=flat&logo) Here I collect little React/Js apps and lessons summary for learning and testing. - [link](https://github.com/rubyhat/frontend-pets) | [demo](https://rubyhat.simpleweb.kz/)
+- ![For HR](https://img.shields.io/badge/-For_Tech_Lead-FFD700?style=flat&logo) Here I collect little React/Js apps and lessons summary for learning and testing. - [link](https://github.com/rubyhat/frontend-pets) | [demo](https://rubyhat.simpleweb.kz/)
 - My name is Vladislav Tsay
 - I'm 24 y.o.
 - I'm from Kazakhstan
