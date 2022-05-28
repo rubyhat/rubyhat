@@ -37,6 +37,7 @@
 
 - ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) React + TS + StoryBook app - [Code](https://github.com/rubyhat/rubyhat-ui-kit)
 - ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) Webpack template for static site - [Code](https://github.com/rubyhat/webpack-template)
+- ![Badge](https://img.shields.io/badge/-2022-3CB371?style=flat&logo) React games: [ [Snake](https://rubyhat.simpleweb.kz/snake-game) | [Code](https://github.com/rubyhat/frontend-pets/tree/main/src/Components/Snake)] [ [Wordle](https://rubyhat.simpleweb.kz/wordle-game) | [Code](https://github.com/rubyhat/frontend-pets/tree/main/src/Components/Wordle) ]
 - ![Badge](https://img.shields.io/badge/-2022-FFD700?style=flat&logo) React + Next: JWT auth (in progress) - [Code](https://github.com/rubyhat/jwt-react)
 
 ### Projects
