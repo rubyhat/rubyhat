@@ -40,9 +40,9 @@
 - ![Badge](https://img.shields.io/badge/-2024-3CB371?style=flat&logo) React SPA web app + admin web app, code & product management - [Roze.kz](https://roze.kz) | [Code](https://github.com/rubyhat/eis-client.git) ![Badge](https://img.shields.io/badge/-alive-3CB371?style=flat&logo)
 - ![Badge](https://img.shields.io/badge/-2022+2023-3CB371?style=flat&logo) React SSR web app, code & Frontend Team Lead - [Atlasbus.by](https://atlasbus.by) | Code in private self-hosted gitlab servers ![Badge](https://img.shields.io/badge/-alive-3CB371?style=flat&logo)
 - ![Badge](https://img.shields.io/badge/-2022-FFD700?style=flat&logo) React SPA for online shop, code & project management - [cvetozavr.kz](https://cvetozavr.kz) | [Code](https://github.com/rubyhat/roze-landing.git) ![Badge](https://img.shields.io/badge/-alive-3CB371?style=flat&logo)
-- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) PHP YYI2 (only views), React SPA, code. Kazakhstan's National Lottery [sz.kz](https://sz.kz)
-- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) React SPA, code. Web app for car lottery. [Avtoloto.kz](https://avtoloto.kz)
-- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) React SPA, code. Admin Panel for Avtoloto.kz in private repo :)
+- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) PHP YII2 (only views), React SPA, code. Kazakhstan's National Lottery [sz.kz](https://sz.kz)![Badge](https://img.shields.io/badge/-alive-3CB371?style=flat&logo)
+- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) React SPA, code. Web app for car lottery. [Avtoloto.kz](https://avtoloto.kz) ![Badge](https://img.shields.io/badge/-rip-DC143C?style=flat&logo)
+- ![Badge](https://img.shields.io/badge/-2021+2022-DC143C?style=flat&logo) React SPA, code. Admin Panel for Avtoloto.kz in private repo :) ![Badge](https://img.shields.io/badge/-rip-DC143C?style=flat&logo)
 
 ### Commercial Projects
 
